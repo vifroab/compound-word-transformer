@@ -1,0 +1,7 @@
+Cython==3.0.4
+madmom @ git+https://github.com/CPJKU/madmom@0551aa8f48d71a367d92b5d3a347a0cf7cd97cc9
+miditoolkit==0.1.16
+librosa==0.10.1
+chorder==0.1.4
+pandas==2.1.1
+seaborn==0.13.0
