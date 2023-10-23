@@ -5,3 +5,4 @@ librosa==0.10.1
 chorder==0.1.4
 pandas==2.1.1
 seaborn==0.13.0
+pytest==7.0.1

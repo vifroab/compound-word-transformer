@@ -145,7 +145,7 @@ dataset/midi_synchronized/*
 dataset/midi_transcribed/*
 dataset/representations/uncond/remi/ailab17k_from-scratch_remi/*
 
-workspace/uncond/cp-linear/*
+workspace/uncond/cp-linear/gen_midis/*
 workspace/uncond/remi-xl/*
 
 corpus/
